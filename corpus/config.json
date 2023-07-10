@@ -1,0 +1,24 @@
+{
+    "feature": {
+	"sr": 16000,
+	"hop_sample": 256,
+	"mel_bins": 256,
+	"n_bins": 256,
+	"fft_bins": 2048,
+	"window_length": 2048,
+	"log_offset": 1e-8,
+	"window": "hann",
+	"pad_mode": "constant"
+    },
+    "input": {
+	"margin_b": 32,
+	"margin_f": 32,
+	"num_frame": 128
+    },
+    "midi": {
+	"note_min": 21,
+	"note_max": 108,
+	"num_note": 88,
+	"num_velocity": 128
+    }
+}
