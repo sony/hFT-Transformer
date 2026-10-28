@@ -54,6 +54,11 @@ Keisuke Toyama, Taketo Akama, Yukara Ikemiya, Yuhta Takida, Wei-Hsiang Liao, and
 }
 ```
 
+## License
+- Source code: MIT License, see [LICENSE-CODE](LICENSE-CODE)
+- Checkpoints / model weights: see [LICENSE-CHECKPOINTS.md](LICENSE-CHECKPOINTS.md)
+The checkpoints were trained using the MAESTRO v3.0.0 dataset (https://magenta.tensorflow.org/datasets/maestro), which is licensed under CC BY-NC-SA 4.0. Therefore, the checkpoints are distributed under CC BY-NC-SA 4.0.
+
 ## Contact
 - Keisuke Toyama (keisuke.toyama@sony.com)
 
